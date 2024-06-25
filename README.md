@@ -1,11 +1,10 @@
-# Desafios de Código - Python Developer - DIO
+# Curso Python Developer - DIO
 
-Bem-vindo ao meu repositório de desafios de código do curso **Python Developer** da [Digital Innovation One (DIO)](https://www.dio.me/).
+Bem-vindo ao meu repositório de notas e desafios de código do curso **Python Developer** da [Digital Innovation One (DIO)](https://www.dio.me/).
 
 ## Descrição
 
-Olá! Eu sou Catarina Oliveira, uma estudante entusiasmada participando da formação **Python Developer** oferecida pela DIO. Sou graduanda em Engenharia Biomédica e venho me desafiando no contexto de tecnologia para saúde. 
-Este repositório foi criado para armazenar, versionar e compartilhar minhas soluções para os desafios de código propostos ao longo do curso. Meu objetivo é documentar meu progresso, aprimorar minhas habilidades de programação e colaborar com outros estudantes.
+Olá! Eu sou Catarina Oliveira, uma estudante entusiasmada participando da formação **Python Developer** oferecida pela DIO. Sou graduanda em Engenharia Biomédica e venho me desafiando no contexto de tecnologia para saúde. Este repositório foi criado para armazenar, versionar e compartilhar minhas soluções para os desafios de código propostos ao longo do curso, além das notas tomadas (anotações das aulas com pequenas modificações). Meu objetivo é documentar meu progresso, aprimorar minhas habilidades de programação e colaborar com outros estudantes.
 
 ## Estrutura do Repositório
 
@@ -27,16 +26,6 @@ A estrutura do repositório está organizada da seguinte forma:
     ├── desafio_N.py
     ├── README.md
 ```
-
-## Como Contribuir
-
-Estou sempre aberta a sugestões e melhorias! Se você deseja contribuir:
-
-1. Faça um fork deste repositório.
-2. Crie uma branch para sua feature ou correção (`git checkout -b feature/nova-feature`).
-3. Commit suas alterações (`git commit -m 'Adiciona nova feature'`).
-4. Faça o push para a branch (`git push origin feature/nova-feature`).
-5. Abra um Pull Request.
 
 ## Como Executar os Desafios
 
