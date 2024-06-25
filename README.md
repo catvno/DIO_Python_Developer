@@ -7,6 +7,26 @@ Bem-vindo ao meu repositório de desafios de código do curso **Python Developer
 Olá! Eu sou Catarina Oliveira, uma estudante entusiasmada participando da formação **Python Developer** oferecida pela DIO. Sou graduanda em Engenharia Biomédica e venho me desafiando no contexto de tecnologia para saúde. 
 Este repositório foi criado para armazenar, versionar e compartilhar minhas soluções para os desafios de código propostos ao longo do curso. Meu objetivo é documentar meu progresso, aprimorar minhas habilidades de programação e colaborar com outros estudantes.
 
+## Estrutura do Repositório
+
+A estrutura do repositório está organizada da seguinte forma:
+
+/
+├── Modulo1_NomeDoModulo/
+│ ├── Notas1.py
+│ ├── Desafio1.py
+│ ├── README.md
+├── Modulo2_NomeDoModulo/
+│ ├── Notas2.py
+│ ├── Desafio2.py
+│ ├── README.md
+├── ...
+└── ModuloN_NomeDoModulo/
+├── NotasN.py
+├── DesafioN.py
+├── README.md
+
+
 ## Como Contribuir
 
 Estou sempre aberta a sugestões e melhorias! Se você deseja contribuir:
