@@ -11,21 +11,22 @@ Este repositório foi criado para armazenar, versionar e compartilhar minhas sol
 
 A estrutura do repositório está organizada da seguinte forma:
 
+```
 /
 ├── Modulo1_NomeDoModulo/
-│ ├── Notas1.py
-│ ├── Desafio1.py
-│ ├── README.md
+│   ├── notas_01.ipynb
+│   ├── desafio_01.py
+│   ├── README.md
 ├── Modulo2_NomeDoModulo/
-│ ├── Notas2.py
-│ ├── Desafio2.py
-│ ├── README.md
+│   ├── notas_02.ipynb
+│   ├── desafio_02.py
+│   ├── README.md
 ├── ...
 └── ModuloN_NomeDoModulo/
-├── NotasN.py
-├── DesafioN.py
-├── README.md
-
+    ├── notas_N.ipynb
+    ├── desafio_N.py
+    ├── README.md
+```
 
 ## Como Contribuir
 
