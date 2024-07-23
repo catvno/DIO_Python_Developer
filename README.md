@@ -1,10 +1,10 @@
-# Curso Python Developer - DIO
+# Santander Bootcamp 2023 - Ciência de Dados com Python
 
-Bem-vindo ao meu repositório de notas e "desafios de projeto" do curso **Python Developer** da [Digital Innovation One (DIO)](https://www.dio.me/).
+Bem-vindo ao meu repositório de notas e "desafios de projeto" do curso **Santander Bootcamp 2023 - Ciência de Dados com Python** da [Digital Innovation One (DIO)](https://www.dio.me/).
 
 ## Descrição
 
-Olá! Eu sou Catarina Oliveira, uma estudante entusiasmada participando da formação **Python Developer** oferecida pela DIO. Sou graduanda em Engenharia Biomédica e venho me desafiando no contexto de tecnologia para saúde. Este repositório foi criado para armazenar, versionar e compartilhar minhas soluções para os desafios de projeto propostos ao longo do curso, além das notas tomadas (anotações das aulas com pequenas modificações). Meu objetivo é documentar meu progresso, aprimorar minhas habilidades de programação e colaborar com outros estudantes.
+Olá! Eu sou Catarina Oliveira, uma estudante entusiasmada participando da formação em **Ciência de dados** oferecida pela DIO em parceria com o Santander. Sou graduanda em Engenharia Biomédica e venho me desafiando no contexto de tecnologia para saúde. Este repositório foi criado para armazenar, versionar e compartilhar minhas soluções para os desafios de projeto propostos ao longo do curso, além das notas tomadas (anotações das aulas com pequenas modificações). Meu objetivo é documentar meu progresso, aprimorar minhas habilidades de programação e colaborar com outros estudantes.
 
 ## Estrutura do Repositório
 
